@@ -26,3 +26,5 @@ $ apt install -f
 [迅雷极速版](https://mirrors.aliyun.com/deepin/pool/non-free/d/deepin.com.thunderspeed/)
 
 [百度网盘](https://mirrors.aliyun.com/deepin/pool/non-free/d/deepin.com.baidu.pan/)
+
+感谢[wszqkzqk移植的适用于ubuntu 18.04的deepinwine](https://github.com/wszqkzqk/deepin-wine-ubuntu)，本repo移植过程中参考了很多，另外一些问题也可看该repo的FAQ。
