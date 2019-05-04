@@ -5,7 +5,7 @@
 安装方法：
 1. 增加32位运行环境
 ```
-$dpkg --add-architecture i386 && apt update
+$ dpkg --add-architecture i386 && apt update
 ```
 
 2. 安装deepinwine2.18-18~rc2_debian_buster目录下所有deb包
@@ -17,7 +17,7 @@ $ dpkg -i deepinwine2.18-18~rc2_debian_buster/*.deb
 ```
 $ apt install -f
 ```
-4. 自行安装Deepin Wine移植应用。
+4. 自行安装Deepin Wine移植应用（下载deb包dpkg -i安装）
 
 [QQ轻聊版](https://mirrors.aliyun.com/deepin/pool/non-free/d/deepin.com.qq.im.light/)
 
