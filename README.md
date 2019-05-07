@@ -28,11 +28,11 @@ $ dpkg -i deepinwine2.18-18~rc2_debian_buster/*.deb
 ```
 $ apt install -f
 ```
-4. 自行安装Deepin Wine移植应用（下载deb包dpkg -i安装）
+4. 安装Deepin Wine移植应用（下载deb包dpkg -i安装）
 
-[QQ轻聊版](https://mirrors.aliyun.com/deepin/pool/non-free/d/deepin.com.qq.im.light/)
+[QQ轻聊版](https://github.com/yachen4ever/DeepinWine_Debian_Buster/raw/master/deepin.qqlight.debian.buster.yac_7.9.14308deepin8_i386.deb)
 
-[微信](https://mirrors.aliyun.com/deepin/pool/non-free/d/deepin.com.wechat/)
+[微信](https://github.com/yachen4ever/DeepinWine_Debian_Buster/raw/master/deepin.wechat.debian.buster.yac_2.6.2.31deepin0_i386.deb)
 
 感谢[wszqkzqk移植的适用于ubuntu 18.04的deepinwine](https://github.com/wszqkzqk/deepin-wine-ubuntu)，本repo移植过程中参考了很多，另外一些问题也可看该repo的FAQ。
 
