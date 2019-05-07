@@ -28,3 +28,7 @@ $ apt install -f
 [百度网盘](https://mirrors.aliyun.com/deepin/pool/non-free/d/deepin.com.baidu.pan/)
 
 感谢[wszqkzqk移植的适用于ubuntu 18.04的deepinwine](https://github.com/wszqkzqk/deepin-wine-ubuntu)，本repo移植过程中参考了很多，另外一些问题也可看该repo的FAQ。
+
+---------------
+2019.5.7 Update：
+Deepin打包的应用中没有启用Cleartype，看着很难受，我给我自己常用的微信和QQ解包修改了下user.reg，开启了Cleartype后重新打包，为避免冲突在包名后加了.yac上传。
