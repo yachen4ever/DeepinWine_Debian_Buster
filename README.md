@@ -3,6 +3,7 @@
 这是一个为Debian Buster x64重新打包的Deepin Wine，打包时间为2019-5-3，Deepin Wine相关版本为2.18-18~rc2
 
 安装方法：
+
 0. KDE额外步骤
 ```
 $ apt install gnome-settings-daemon
